@@ -5,5 +5,5 @@ Test objective:
 
 Pre-requisite:
 - The user need to create an account manually by entering valid username, password & valid email address for verification.
-﻿﻿﻿- The user has logged in to the application and has access to the booking feature.
-﻿﻿﻿- Test cases contained all Positive and Negative scenarios.
+- The user has logged in to the application and has access to the booking feature.
+- Test cases contained all Positive and Negative scenarios.
